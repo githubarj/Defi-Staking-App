@@ -1,2 +1,2 @@
 # Defi-Staking-App
-A decentralized finance application
+A decentralized finance application.  
